@@ -18,6 +18,9 @@ Features
 Bug Fixes
 ---------
 
+* Capture all ProvisionedException errors in websocket and endpoint correctly.
+  Issue #175.
+
 WebPush
 -------
 
